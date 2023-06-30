@@ -2,6 +2,11 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Будущий посетитель, работодатель, хороший человек, хочу вам представить мой собственный мир, где вы можете увидеть все навыки которыми я владею.</h3>
 
+<h3 Codewars:
+</h3>
+  
+[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/nayan0808) 
+
 <!--
 **Nayka08/Nayka08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
