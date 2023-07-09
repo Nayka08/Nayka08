@@ -1,6 +1,6 @@
 <h1 align="center">Здравствуйте, меня зовут Наян</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Будущий посетитель, работодатель и просто хороший человек, хочу вам представить мой маленький мир, где вы можете увидеть навыки которыми я владею.</h3>
+
 
 Профиль Codewars:
 
