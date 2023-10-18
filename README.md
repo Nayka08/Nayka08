@@ -3,10 +3,11 @@
 
 
 Профиль Codewars:
-(https://www.codewars.com/users/nayan0808) 
+[!codewars](https://www.codewars.com/users/nayan0808) 
 
 Пофиль Leetcode:
-(https://leetcode.com/nayan0808/)
+[!leetcode](https://leetcode.com/nayan0808/)
+
 
 <!--
 **Nayka08/Nayka08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
